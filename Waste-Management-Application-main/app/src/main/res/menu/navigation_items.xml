@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeMain"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item
+        android:id="@+id/wasteEducation"
+        android:title="Waste Education"
+        android:icon="@drawable/waste_education"
+        />
+    <item
+        android:id="@+id/recyling"
+        android:title="Recycling"
+        android:icon="@drawable/baseline_recycling_24"
+        />
+    <item
+        android:id="@+id/scan"
+        android:title="Scan"
+        android:icon="@drawable/scan"
+        />
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/about"
+        />
+    <item
+        android:id="@+id/feedback"
+        android:title="Feedback"
+        android:icon="@drawable/baseline_feedback_24"
+        />
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/baseline_help_24"
+        />
+
+
+
+
+</menu>
